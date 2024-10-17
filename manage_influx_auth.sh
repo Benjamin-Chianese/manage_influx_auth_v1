@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Fixed values for organization and retention policy
-ORG="ORG"
+ORG="YourOrganizationName"
 RETENTION_POLICY="autogen"  # Change this if you want a different retention policy
 
 # Retention Policy Options (for your reference):
